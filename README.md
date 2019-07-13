@@ -17,3 +17,5 @@ namespace LibraryCalc08
         }
 }
 ```
+## How to use
+![Nuget](https://img.shields.io/nuget/dt/LibraryCalc08.svg)
