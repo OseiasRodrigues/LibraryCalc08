@@ -6,7 +6,7 @@ Library of Math operations
 ## How to install
 Install-Package LibraryCalc08 -Version 1.0.1
 
-'''cs
+```cs
 namespace LibraryCalc08
 {
     public class Calculator : ICalculator
@@ -16,4 +16,4 @@ namespace LibraryCalc08
             return x + y;
         }
 }
-'''
+```
