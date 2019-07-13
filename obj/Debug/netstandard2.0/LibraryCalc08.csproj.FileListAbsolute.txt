@@ -1,0 +1,9 @@
+C:\Users\ozzman\source\repos\LibraryCalc08\LibraryCalc08\obj\Debug\netstandard2.0\LibraryCalc08.csprojAssemblyReference.cache
+C:\Users\ozzman\source\repos\LibraryCalc08\LibraryCalc08\obj\Debug\netstandard2.0\LibraryCalc08.csproj.CoreCompileInputs.cache
+C:\Users\ozzman\source\repos\LibraryCalc08\LibraryCalc08\obj\Debug\netstandard2.0\LibraryCalc08.AssemblyInfoInputs.cache
+C:\Users\ozzman\source\repos\LibraryCalc08\LibraryCalc08\obj\Debug\netstandard2.0\LibraryCalc08.AssemblyInfo.cs
+C:\Users\ozzman\source\repos\LibraryCalc08\LibraryCalc08\bin\Debug\netstandard2.0\LibraryCalc08.deps.json
+C:\Users\ozzman\source\repos\LibraryCalc08\LibraryCalc08\bin\Debug\netstandard2.0\LibraryCalc08.dll
+C:\Users\ozzman\source\repos\LibraryCalc08\LibraryCalc08\bin\Debug\netstandard2.0\LibraryCalc08.pdb
+C:\Users\ozzman\source\repos\LibraryCalc08\LibraryCalc08\obj\Debug\netstandard2.0\LibraryCalc08.dll
+C:\Users\ozzman\source\repos\LibraryCalc08\LibraryCalc08\obj\Debug\netstandard2.0\LibraryCalc08.pdb
